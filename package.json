@@ -1,0 +1,16 @@
+{
+  "name": "nodeintro",
+  "version": "1.0.0",
+  "description": "Pluralsight node intro course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -r dotenv/config *.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gillian bc",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "dotenv": "^6.0.0"
+  }
+}
